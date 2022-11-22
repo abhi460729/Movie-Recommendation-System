@@ -17,7 +17,7 @@ Y-Axis: Number of times ratings appeared: 100, 200,...., 500
 
 
 Observation from Data Analysis 1:
-# Very few movies are being rated more than 300 or 200 times.
-# Most of the movies are being rated between 0 to 10.
+ - Very few movies are being rated more than 300 or 200 times.
+ - Most of the movies are being rated between 0 to 10.
 
 
